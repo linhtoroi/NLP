@@ -1,0 +1,6 @@
+__pycache__/
+save_model/best_dev_iteration.16.dat
+save_model/dev.eo.pred.restored.pkl
+save_model/model-best.16.tar
+save_model/predictions.16.txt
+data/
