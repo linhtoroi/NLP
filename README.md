@@ -11,6 +11,9 @@ NL2SQL.py
 
 *** How run code ***
 
+Data download from
+https://drive.google.com/file/d/1FGINC8fMr9IH8N7v93VqwYBwmkT8hHta/view?usp=sharing
+
 virtualenv -p /usr/bin/python3.7 env 
 
 source venv/bin/activate
