@@ -12,9 +12,13 @@ NL2SQL.py
 *** How run code ***
 
 virtualenv -p /usr/bin/python3.7 env 
+
 source venv/bin/activate
+
 pip install torch torchvision
+
 python3 -m pip install -r requirements.txt
+
 export PYTHONPATH=`pwd` && python -m nltk.downloader punkt
 
 
